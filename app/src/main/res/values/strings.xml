@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sms Sender</string>
+
+    <string name="wrong">Some thing went to wrong please try again</string>
+
+    <string name="number">Enter the number</string>
+    <string name="message">Enter the message</string>
+    <string name="please_enter_mobile_number">Please enter mobile number</string>
+
+    <string name="send">Send</string>
+</resources>
